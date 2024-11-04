@@ -365,7 +365,7 @@ document.addEventListener('DOMContentLoaded', function() {
 ![image](https://github.com/user-attachments/assets/e9361b96-e96e-4748-9fbc-fc5bac09748e)
 ![image](https://github.com/user-attachments/assets/0c03c7a0-8486-4085-8d30-4177bf4cf292)
 
-
+dengan memasukkan kode berikut :
 ```
 <?php
 // home.php 
