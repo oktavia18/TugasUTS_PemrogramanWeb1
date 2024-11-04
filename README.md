@@ -1382,6 +1382,6 @@ dengan memasukkan kode berikut :
 
 <img src=https://pngimg.com/uploads/google_drive/google_drive_PNG9.png width="110px" >
 
-- [ini adalah penjelasan yang lebih lengkap](https://drive.google.com/file/d/15CXc0FVemHqMzBvTEPF-s8iPX5zmoW1H/view?usp=drivesdk)
+- [ini adalah penjelasan yang lebih lengkap](https://drive.google.com/file/d/1tdyKCo1J75LEMtCEL1o74DqrPIXOgdJg/view?usp=drivesdk)
 
 ## SELESAI <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png"> <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/thumbs/160/twitter/348/flag-indonesia_1f1ee-1f1e9.png">
