@@ -659,6 +659,10 @@ counters.forEach(counter => {
 </script>
 ```
 ## 4. Menambahkan About
+
+![image](https://github.com/user-attachments/assets/751c0953-acae-4aed-bfc9-050c838a3b8c)
+![image](https://github.com/user-attachments/assets/bf820f22-0d93-45cd-a5c2-dccb17a29571)
+
 dengan memasukan code berikut
 ```
 <!-- ABOUT PAGE (about.php) -->
@@ -969,10 +973,7 @@ h3.text-center::after {
 </section>
 ```
 
-![image](https://github.com/user-attachments/assets/751c0953-acae-4aed-bfc9-050c838a3b8c)
-![image](https://github.com/user-attachments/assets/bf820f22-0d93-45cd-a5c2-dccb17a29571)
-
-## 5. Menambahkan Contant
+## 5. Menambahkan Contanct
 dengan memasukan kode halaman contact 
 
 ![image](https://github.com/user-attachments/assets/7c5c6bed-f7d3-4c88-a3b6-43a4b3b93873)
