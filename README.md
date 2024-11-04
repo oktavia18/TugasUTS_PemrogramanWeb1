@@ -1,4 +1,4 @@
-# UTS { Pertemuan ke 8}
+# UTS PEMROGRAMAN WEB1{ Pertemuan ke 8}
 ## PROFIL
 | Variable           |             Isi            |
 | -------------------|----------------------------|
@@ -14,6 +14,7 @@
 
 ## 1. Menjalankan MySQL Server
 Menjalankan MySQL dari menu **XAMPP Control.**
+![image](https://github.com/user-attachments/assets/76c5e6f6-fee3-4149-b4cc-942ed702f5e9)
 
 ### Mengakses Apache Client menggunakan 'website-dinamis'.
 
