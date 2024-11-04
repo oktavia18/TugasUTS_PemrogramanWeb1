@@ -14,6 +14,7 @@
 
 ## 1. Menjalankan MySQL Server
 Menjalankan MySQL dari menu **XAMPP Control.**
+
 ![image](https://github.com/user-attachments/assets/76c5e6f6-fee3-4149-b4cc-942ed702f5e9)
 
 ### Mengakses Apache Client menggunakan 'website-dinamis'.
@@ -366,6 +367,7 @@ document.addEventListener('DOMContentLoaded', function() {
 ![image](https://github.com/user-attachments/assets/e9361b96-e96e-4748-9fbc-fc5bac09748e)
 ![image](https://github.com/user-attachments/assets/0c03c7a0-8486-4085-8d30-4177bf4cf292)
 
+
 dengan memasukkan kode berikut :
 ```
 <?php
@@ -659,6 +661,7 @@ counters.forEach(counter => {
 });
 </script>
 ```
+
 ## 4. Menambahkan About
 
 ![image](https://github.com/user-attachments/assets/751c0953-acae-4aed-bfc9-050c838a3b8c)
@@ -975,10 +978,10 @@ h3.text-center::after {
 ```
 
 ## 5. Menambahkan Contanct
-dengan memasukan kode halaman contact 
 
 ![image](https://github.com/user-attachments/assets/7c5c6bed-f7d3-4c88-a3b6-43a4b3b93873)
 
+dengan memasukkan kode berikut
 ```
 <!DOCTYPE html>
 <html lang="id">
@@ -1200,7 +1203,7 @@ dengan memasukan kode halaman contact
 ![image](https://github.com/user-attachments/assets/3b3dfdf5-5d75-474b-90ce-59acba9776a1)
 ![image](https://github.com/user-attachments/assets/e293bb49-35e9-4c1f-96e4-2b963fc11af4)
 
-dengan memasukan kode halaman datatables
+dengan memasukan kode halaman datatables berikut :
 
 ```
 <h2>Datatables</h2>
@@ -1353,7 +1356,28 @@ dengan memasukan kode halaman datatables
 
 ![image](https://github.com/user-attachments/assets/0624aee6-f306-4129-a5b1-58da4efff630)
 
+dengan memasukkan kode berikut :
 
+```
+<div class="form-container">
+    <form>
+        <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">Email address</label>
+            <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Masukkan email Anda">
+            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+        </div>
+        <div class="mb-3">
+            <label for="exampleInputPassword1" class="form-label">Password</label>
+            <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Masukkan password Anda">
+        </div>
+        <div class="mb-3 form-check">
+            <input type="checkbox" class="form-check-input" id="exampleCheck1">
+            <label class="form-check-label" for="exampleCheck1">Check me out</label>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+```
 
 
 <img src=https://pngimg.com/uploads/google_drive/google_drive_PNG9.png width="110px" >
